@@ -37,23 +37,3 @@ export default class counterer extends Component {
 
 
 
-
-//   hidetext() {
-
-//     if(this.state.text == "hide me"){
-//       this.setState({ text: "" })
-//     }else {
-//       this.setState({ text: "hide me" })
-//   }
-//   }
-  
-
-//   render() {
-//     return (
-//       <div className='hide-wrapper'>
-//           <h1>{this.state.text}</h1>
-//           <button onClick={() => this.hidetext()}>Hide</button>
-//       </div>
-//     );
-//   }
-// }

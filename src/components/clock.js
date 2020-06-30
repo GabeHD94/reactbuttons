@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import moment from 'moment';
 
-export default class alignment extends Component {
+export default class Clock extends Component {
     render() {
         const currenttime = function() {
             document.getElementById("datetime")
